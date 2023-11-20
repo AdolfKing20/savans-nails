@@ -6,3 +6,6 @@ body{
   background: #AD5BA0;
   font-family: 'Poppins', sans-serif;
 }
+.imgbg{
+  background: url("");
+}
